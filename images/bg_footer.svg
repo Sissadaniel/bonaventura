@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="524" viewBox="0 0 1920 524">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="1920" height="524" transform="translate(0 1154)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1.188" y2="1.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cd7eff"/>
+      <stop offset="1" stop-color="#ea54ca"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 -1154)" clip-path="url(#clip-path)">
+    <g id="Group_1315" data-name="Group 1315">
+      <path id="Bg_Shape" data-name="Bg Shape" d="M2527.032,2010.593s4.789,67.159,8.4,181.676c-107.177,73.821-267.6,49.185-518.073-326.458-469.051-703.447-1145.837-57.5-1343.7-726.278S-133.235,563.122,38.651,5.5C65.536,3.768,2434.745,110.937,2434.745,110.937l30.74,604.343,7.628,188.492,25.629,536.994,18.467,355.544Z" transform="translate(2088.158 1568.74) rotate(135)" fill="url(#linear-gradient)"/>
+      <path id="Bg_Shape-2" data-name="Bg Shape" d="M1744.03,1307.236s3.115,43.663,5.271,118.118c-74.435,48-185.444,31.989-357.76-212.228-322.688-457.334-793.256-37.337-928.269-472.141S-93.728,366.26,26.961,3.707C45.582,2.581,1685.806,72.156,1685.806,72.156l19.479,392.919L1710,587.625l16.141,349.132,11.724,231.161Z" transform="matrix(-0.809, 0.588, -0.588, -0.809, 2116.141, 1688.432)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
