@@ -504,6 +504,10 @@ a.w--current {
   border-bottom-left-radius: 0px;
 }
 
+.button.margin {
+  margin-top: 16px;
+}
+
 .price-card {
   padding: 32px 34px;
 }
