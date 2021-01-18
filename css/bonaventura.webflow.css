@@ -1639,7 +1639,7 @@ a.w--current {
 .div-block-22 {
   position: relative;
   width: 320px;
-  height: 320px;
+  height: 370px;
   margin-right: auto;
   margin-left: auto;
   padding: 32px;
@@ -1919,6 +1919,10 @@ a.w--current {
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
   transform: scale(1.5);
+}
+
+.heading-13 {
+  margin-bottom: 32px;
 }
 
 @media screen and (max-width: 991px) {
